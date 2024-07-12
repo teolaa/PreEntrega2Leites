@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.logoHeader{
+    width: 7.3125rem;
+    height: 3.1875rem;
+    flex-shrink: 0;
+}
+
+.section1 {
+    width: 100%;
+    height: 2rem;
+    flex-shrink: 0;
+    background: #12340D;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.listaNav {
+    color: #000;
+    font-family: Inter;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.section2 {
+    width: 100%;
+    height: 35.25rem;
+    flex-shrink: 0;
+display: inline;
+
+} 
+
+.section3 {
+    color: #000;
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 1000;
+    line-height: normal;
+    text-align: start;
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
+
+.section4 {
+    display: flexbox;
+    width: 100%;
+    justify-content: center;
+}
+
+article {
+    display: inline;
+}
+
+.navBar {
+    display: flex;
+    justify-content: center;
+    padding: .625rem;
+}
+
+header nav{
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFF;
+}
+
+li{
+    list-style: none;
+    
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    align-content: center;
+}
+
+header nav ul li{
+    display: inline;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 0 100px;
+    border-radius: 10px;
+}
+
+.bodyCollections {
+    background-color: #919191;
+}
+
+.pNosotros {
+    text-align: center;
+    width: 75%;
+    display: flexbox;
+    padding-left: 25%;
+}
+
+.imgNosotros {
+    display: inline-flex;
+    align-items: center;
+padding-left: 5.5%;
+
+}
+
+article {
+    display: flexbox;
+    text-align: center;
+    width: 3;
+}
